@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tower
+  - ShootPos
+  - Arrow
+  - TowerIndicator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Green
+  - Tower
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Windmill_Render
+  - Putter_Render
+  - Cannon_Render
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 424798443
+    locked: 0
+  - name: Tower
+    uniqueID: 2652572441
+    locked: 0
+  - name: Hole
+    uniqueID: 1674567867
+    locked: 0
+  - name: Ball
+    uniqueID: 2285522189
+    locked: 0
+  - name: TowerIndicators
+    uniqueID: 4088864519
+    locked: 0
+  - name: UI
+    uniqueID: 2240297123
+    locked: 0
